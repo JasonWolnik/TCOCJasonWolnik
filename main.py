@@ -70,19 +70,19 @@ def main():
         choice = input("Choose an option: ")
         if choice == "1":
             print(f"{cost_per_semester(total_cost):.2f}")
-        if choice == "2":
+        elif choice == "2":
             print(f"{cost_per_month(total_cost):.2f}")
-        if choice == "3":
+        elif choice == "3":
             print(f"{cost_per_day(total_cost):.2f}")
-        if choice == "4":
+        elif choice == "4":
             print(f"{cost_per_credit(total_cost, credits):.2f}")
-        if choice == "5":
+        elif choice == "5":
             print(f"{cost_per_class(total_cost, credits):.2f}")
-        if choice == "6":
+        elif choice == "6":
             classes_skipped=int(input("How many classes skipped?"))
             print(f"{cost_per_skipped_class(total_cost, classes_skipped, credits):.2f}")
 
-        if choice == "Q" or choice == "q":
+        elif choice == "Q" or choice == "q":
             print("Thanks for running the numbers!")
             break
 
