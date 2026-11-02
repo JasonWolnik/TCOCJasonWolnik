@@ -4,19 +4,19 @@ Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pas
 CS 1430 Assignment 2: The Cost of College
 GitHub user : JasonWolnik
 Repository  : https://github.com/JasonWolnik/TCOCJasonWolnik
-Commit      : c930e8386e6b5b9a7231f4f87a1e80ecdf6f529d
-Message     : Finished Assignment.
+Commit      : 0f08f168923f129657a2ed054c358b8c1a032232
+Message     : nothing lol, just isn't registered on different pc.
 Author      : Jason Wolnik <wolnikj@uwplatt.edu>
-Committed   : 2026-10-26T13:41:09-05:00
-Checked     : 2026-10-26 13:41:22 Central Daylight Time
-Python      : 3.14.6
+Committed   : 2026-10-26T14:14:34-05:00
+Checked     : 2026-10-26 14:14:46 Central Daylight Time
+Python      : 3.13.14
 
 ================================================================
 CHECK RESULTS
 ================================================================
 
 --- Toolchain ---
-[PASS] Python 3.14.6 is installed
+[PASS] Python 3.13.14 is installed
 [PASS] main.py is in this folder
 [PASS] main.py runs without an error
 [PASS] The constants are unchanged
